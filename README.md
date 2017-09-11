@@ -8,7 +8,7 @@ provided by the [SnapGames](http://snapgames.fr) site.
 
 ## Compile
 
-To compile ythe full project, please execute the followin' command :
+To compile the full project, please execute the followin' command :
 
     $> mvn clean install
 
@@ -26,4 +26,4 @@ Import this porject as an Existing Maven Project into your prefered IDE,
 (like [Eclipse](http://www.eclipse.org/downloads "open the eclipse official web download page") ?)
 
 
-[Frédéric Delorme](contact@snapgames.fr).
+[Frédéric Delorme](mailto:contact@snapgames.fr).
