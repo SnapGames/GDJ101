@@ -24,8 +24,10 @@ to execute the the compiled jar, please execute the command bellow :
 
 ## Edit
 
-Import this porject as an Existing Maven Project into your prefered IDE, 
+Import this project as an Existing Maven Project into your prefered IDE, 
 (like [Eclipse](http://www.eclipse.org/downloads "open the eclipse official web download page") ?)
 
+
+Have Fun !
 
 [Frédéric Delorme](mailto:contact@snapgames.fr?subject=gdj101 "send a mail to your tutor")
