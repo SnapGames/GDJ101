@@ -28,8 +28,4 @@ Import this porject as an Existing Maven Project into your prefered IDE,
 (like [Eclipse](http://www.eclipse.org/downloads "open the eclipse official web download page") ?)
 
 
-<<<<<<< HEAD
-[Frédéric Delorme](mailto:contact@snapgames.fr).
-=======
-[Frédéric Delorme](mailto:contact@snapgames.fr).
->>>>>>> branch 'develop' of git@github.com:snapgames/GDJ101.git
+[Frédéric Delorme](mailto:contact@snapgames.fr?subject=gdj101 "send a mail to your tutor")
