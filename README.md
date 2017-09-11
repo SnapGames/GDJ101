@@ -1,6 +1,6 @@
 # GDJ101
 
-[![TravisCI](https://travis-ci.org/SnapGames/GDJ101.svg?branch=master)](https://travis-ci.org/SnapGames/GDJ101 "open the TravisCI compilation trend")
+[![TravisCI](https://travis-ci.org/SnapGames/GDJ101.svg?branch=develop)](https://travis-ci.org/SnapGames/GDJ101 "open the TravisCI compilation trend")
 
 ## Game Developement Java Basics 101
 
@@ -28,4 +28,8 @@ Import this porject as an Existing Maven Project into your prefered IDE,
 (like [Eclipse](http://www.eclipse.org/downloads "open the eclipse official web download page") ?)
 
 
+<<<<<<< HEAD
 [Frédéric Delorme](mailto:contact@snapgames.fr).
+=======
+[Frédéric Delorme](mailto:contact@snapgames.fr).
+>>>>>>> branch 'develop' of git@github.com:snapgames/GDJ101.git
