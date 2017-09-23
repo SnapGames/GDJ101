@@ -2,9 +2,9 @@
 
 [![TravisCI](https://travis-ci.org/SnapGames/GDJ101.svg?branch=develop)](https://travis-ci.org/SnapGames/GDJ101 "open the TravisCI compilation trend") [![Dependency Status](https://www.versioneye.com/user/projects/59b85cb00fb24f002a981d8d/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59b85cb00fb24f002a981d8d "go and visit VersionEye")
 
-## Game Developement Java Basics 101
+## Game Development Java Basics 101
 
-This project i spart of the [GDJ101](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa/t/NzI2Nzg0MjgxNFpa) course from [GameDev Basics
+This project is part of the [GDJ101](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa/t/NzI2Nzg0MjgxNFpa) course from [GameDev Basics
 Java](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa "Open the official online course") 
 provided by the [SnapGames](http://snapgames.fr) site. 
 
